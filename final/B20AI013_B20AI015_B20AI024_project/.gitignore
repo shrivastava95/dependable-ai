@@ -1,0 +1,5 @@
+dataset/*.pt
+datasets/CIFAR10/data/cifar-10*
+datasets/MNIST/data/*
+noise/noise*
+*__pycache__*
